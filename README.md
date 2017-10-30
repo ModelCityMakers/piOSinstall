@@ -11,7 +11,7 @@ Download latest Raspbian image from:  https://www.raspberrypi.org/downloads/rasp
 In `Terminal` run the following command.
 
 ```
-git clone https://github.com/n3urons/piOSinstall.git && chmod a+x piOSinstall/piOSinstall.sh
+git clone https://github.com/ModelCityMakers/piOSinstall.git && chmod a+x piOSinstall/piOSinstall.sh
 ```
 
 ### Run:
